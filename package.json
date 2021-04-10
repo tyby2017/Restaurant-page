@@ -1,0 +1,26 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^5.2.1",
+    "file-loader": "^6.2.0",
+    "gh-pages": "^3.1.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.31.2",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "css": "^3.0.0",
+    "image-loader": "0.0.1",
+    "loader": "^2.1.1",
+    "style": "0.0.3",
+    "url-loader": "^4.1.1"
+  },
+  "description": ""
+}
